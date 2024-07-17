@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<departamentos>
+    <departamento>
+        <numero>1</numero>
+        <nombre>matematicas</nombre>
+        <localidad>sevilla</localidad>
+    </departamento>
+    <departamento>
+        <numero>2</numero>
+        <nombre>informatica</nombre>
+        <localidad>toledo</localidad>
+    </departamento>
+    <departamento>
+        <numero>3</numero>
+        <nombre>fisica</nombre>
+        <localidad>valencia</localidad>
+    </departamento>
+    <departamento>
+        <numero>4</numero>
+        <nombre>filologia</nombre>
+        <localidad>salamanca</localidad>
+    </departamento>
+</departamentos>
+
